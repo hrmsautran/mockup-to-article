@@ -1,1 +1,1 @@
-# mockup-to-article
+Udacity Course : Practice HTML syntax by converting a mockup from a blog article to a real site.
