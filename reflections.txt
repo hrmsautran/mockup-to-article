@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  	"superscript," "horizontal rule" and "strikethrough".
+  * What has been easy?
+  	yes, I did not have much trouble after researching and reading about the behavior of the tag.
+  * What has been difficult?
+  	no difficult.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  	I analyzed the tree and followed the steps to the end.
+
+---
+
+Your response goes here!
+
+* What new skills have you learned?
+	"superscript," "horizontal rule" and "strikethrough".
+	
+* What has been easy?
+	yes, I did not have much trouble after researching and reading about the behavior of the tag.
+
+* What has been difficult?
+	no difficult.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+	I analyzed the tree and followed the steps to the end.
